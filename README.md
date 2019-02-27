@@ -12,5 +12,5 @@
 ### 6. cd vivapx
 ### 7. Install the Gems for the App : bundle install
 ### 8. start the rails server :
-		- in a local IDE environment run : rails server
-        - if you're using c9 (I do that on a regular basis) run : rails s -b $IP -p $PORT
+- in a local IDE environment run : rails server
+- if you're using c9 (I do that on a regular basis) run : rails s -b $IP -p $PORT
